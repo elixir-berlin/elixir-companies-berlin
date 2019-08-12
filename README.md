@@ -1,6 +1,7 @@
 # Elixir Companies in Berlin
 
 List of Berlin companies using Elixir-Lang
+
 ---
 
 ## Companies
