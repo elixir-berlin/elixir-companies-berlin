@@ -25,6 +25,7 @@ List of Berlin companies using Elixir-Lang
 * [Qixxit](https://www.qixxit.com/en/)
 * [Seatris.ai](https://seatris.com)
 * [solarisBank AG](https://www.solarisbank.com/en/)
+* [sonnen](https://sonnen.de)
 * [Statuspal](https://statuspal.io)
 * [SumUp](https://sumup.com)
 * [SuitePad](https://www.suitepad.de)
@@ -36,4 +37,3 @@ List of Berlin companies using Elixir-Lang
 * [vragments](https://vragments.com)
 * [Wooga](https://www.wooga.com)
 * [zenloop](https://www.zenloop.com)
-
