@@ -9,6 +9,7 @@ List of Berlin companies using Elixir-Lang
 * [100starlings](https://www.100starlings.com)
 * [Adjust](https://adjust.com)
 * [airclock](https://aircloak.com)
+* [AirGateway](https://airgateway.com)
 * [Bitcrowd](https://bitcrowd.net)
 * [Entelios AG](https://www.entelios.de)
 * [FactoryBerlin](https://factoryberlin.com)
