@@ -27,6 +27,7 @@ List of Berlin companies using Elixir-Lang
 * [solarisBank AG](https://www.solarisbank.com/en/)
 * [sonnen](https://sonnen.de)
 * [Statuspal](https://statuspal.io)
+* [Steady](https://steadyhq.com)
 * [SumUp](https://sumup.com)
 * [SuitePad](https://www.suitepad.de)
 * [Taxfix](https://taxfix.de)
