@@ -19,6 +19,7 @@ List of Berlin companies using Elixir-Lang
 * [hypocloud](https://www.hypcloud.de)
 * [Klarna](https://www.klarna.com)
 * [kloeckner.i](https://www.kloeckner-i.com/en/)
+* [lastminute.com](https://lastminute.com)
 * [Liefery](https://www.liefery.com)
 * [Mediteo](https://www.mediteo.com)
 * [Meltwater](https://www.meltwater.com)
