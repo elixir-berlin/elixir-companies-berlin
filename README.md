@@ -24,7 +24,6 @@ List of Berlin companies using Elixir-Lang
 * [Mediteo](https://www.mediteo.com)
 * [Meltwater](https://www.meltwater.com)
 * [Nextjournal GmbH](https://nextjournal.com)
-* [Qixxit](https://www.qixxit.com/en/)
 * [Seatris.ai](https://seatris.com)
 * [solarisBank AG](https://www.solarisbank.com/en/)
 * [sonnen](https://sonnen.de)
