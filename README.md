@@ -20,6 +20,7 @@ List of Berlin companies using Elixir-Lang
 * [Klarna](https://www.klarna.com)
 * [kloeckner.i](https://www.kloeckner-i.com/en/)
 * [lastminute.com](https://lastminute.com)
+* [LANA](https://lanalabs.com/)
 * [Liefery](https://www.liefery.com)
 * [Mediteo](https://www.mediteo.com)
 * [Meltwater](https://www.meltwater.com)
