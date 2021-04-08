@@ -11,6 +11,7 @@ List of Berlin companies using Elixir-Lang
 * [airclock](https://aircloak.com)
 * [AirGateway](https://airgateway.com)
 * [Bitcrowd](https://bitcrowd.net)
+* [Diode](https://diode.io)
 * [Entelios AG](https://www.entelios.de)
 * [FactoryBerlin](https://factoryberlin.com)
 * [flyiin](https://www.flyiin.com)
