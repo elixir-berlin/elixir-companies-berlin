@@ -23,6 +23,7 @@ List of Berlin companies using Elixir-Lang
 * [lastminute.com](https://lastminute.com)
 * [LANA](https://lanalabs.com/)
 * [Liefery](https://www.liefery.com)
+* [Marley Spoon](https://marleyspoon.com/)
 * [Mediteo](https://www.mediteo.com)
 * [Meltwater](https://www.meltwater.com)
 * [Nextjournal GmbH](https://nextjournal.com)
