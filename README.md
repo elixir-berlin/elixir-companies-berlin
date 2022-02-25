@@ -17,6 +17,7 @@ List of Berlin companies using Elixir-Lang
 * [flyiin](https://www.flyiin.com)
 * [High Mobility GmbH](https://high-mobility.com)
 * [Highsnobiety](https://www.highsnobiety.com)
+* [Horizon65](https://horizon65.com/en/)
 * [hypcloud](https://www.hypcloud.de)
 * [Klarna](https://www.klarna.com)
 * [kloeckner.i](https://www.kloeckner-i.com/en/)
