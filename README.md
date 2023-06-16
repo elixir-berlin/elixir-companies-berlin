@@ -20,6 +20,7 @@ List of Berlin companies using Elixir-Lang
 * [Highsnobiety](https://www.highsnobiety.com)
 * [hypcloud](https://www.hypcloud.de)
 * [Klarna](https://www.klarna.com)
+* [Kurabo](https://www.kurabu.com/)
 * [kloeckner.i](https://www.kloeckner-i.com/en/)
 * [Knowtrex](https://www.knowtrex.com)
 * [lastminute.com](https://lastminute.com)
