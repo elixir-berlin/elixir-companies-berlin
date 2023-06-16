@@ -7,6 +7,7 @@ List of Berlin companies using Elixir-Lang
 ## Companies
 
 * [100starlings](https://www.100starlings.com)
+* [7mind](https://www.7mind.de)
 * [AccessOwl 🦉](https://www.accessowl.io)
 * [Adjust](https://adjust.com)
 * [airclock](https://aircloak.com)
