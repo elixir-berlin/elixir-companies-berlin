@@ -13,6 +13,7 @@ List of Berlin companies using Elixir-Lang
 * [airclock](https://aircloak.com)
 * [AirGateway](https://airgateway.com)
 * [appian](https://appian.com/)
+* [BEAT81](https://www.beat81.com)
 * [Bitcrowd](https://bitcrowd.net)
 * [Blacklane](https://blacklane.com)
 * [CodeCentric](https://www.codecentric.de)
