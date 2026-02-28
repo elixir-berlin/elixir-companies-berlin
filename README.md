@@ -22,6 +22,7 @@ List of Berlin companies using Elixir-Lang
 * [FactoryBerlin](https://factoryberlin.com)
 * [High Mobility GmbH](https://high-mobility.com)
 * [Highsnobiety](https://www.highsnobiety.com)
+* [Horizon65](https://horizon65.com/en/)
 * [hypcloud](https://www.hypcloud.de)
 * [Klarna](https://www.klarna.com)
 * [Kurabo](https://www.kurabu.com/)
