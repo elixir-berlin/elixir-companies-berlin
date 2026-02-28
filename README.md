@@ -35,6 +35,7 @@ List of Berlin companies using Elixir-Lang
 * [Nextjournal GmbH](https://nextjournal.com)
 * [NightWatch](https://nightwatch.io/)
 * [Order41](https://order41.com)
+* [Parlant](https://www.parlant.co)
 * [Priceline](https://www.priceline.com)
 * [solarisBank AG](https://www.solarisbank.com/en/)
 * [sonnen](https://sonnen.de)
