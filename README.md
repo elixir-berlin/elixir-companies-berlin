@@ -31,6 +31,7 @@ List of Berlin companies using Elixir-Lang
 * [Marley Spoon](https://marleyspoon.com/)
 * [Mediteo](https://www.mediteo.com)
 * [Meltwater](https://www.meltwater.com)
+* [Mitte](https://mitte.ai/)
 * [NewStore](https://www.newstore.com/)
 * [Nextjournal GmbH](https://nextjournal.com)
 * [NightWatch](https://nightwatch.io/)
